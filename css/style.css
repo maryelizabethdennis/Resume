@@ -1,0 +1,94 @@
+.name{
+    color:#fff;
+    text-align: left;
+    margin-left:30px;
+    padding-top:30px;
+    font-size:18px;
+}
+
+.name img{
+    height:200px;
+    border: solid #333 2px;
+    margin:none;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover{
+    color: darkorchid;
+}
+
+
+body{
+    background-color: #fff;
+    font:normal 16px Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+}
+
+#main-header{
+    background-color:#2E073F;
+    background-position: center right;
+    min-height: 300px;
+    text-align: center;
+}
+
+#navbar{
+    background-color: #333;
+    color: #fff;
+    padding:5px;
+    text-align: center;
+}
+
+#navbar ul{
+    padding: 0%;
+    list-style: none;
+}
+
+#navbar li{
+    display: inline;
+}
+
+#navbar a{
+    color:#fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 15px;
+}
+
+#navbar a:hover{
+    color:darkorchid;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 15px;
+}
+
+.education {
+    color: #333;
+    margin-left:30px;
+}
+
+.skills {
+    color: #333;
+    margin-left:30px;
+}
+
+.skills li {
+    display:block;
+}
+
+.certifications {
+    color: #333;
+    margin-left:30px;
+}
+
+#main-footer{
+    background-color: #333;
+    color:#fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;    
+
+}
